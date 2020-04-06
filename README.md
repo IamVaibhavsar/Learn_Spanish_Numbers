@@ -32,7 +32,7 @@ In this way you can change the numbers, by clicking the button.<br>
 
 ---
 
-The source code if this project is present in `lib/main.dart` file.<br>
+The source code of this project is present in `lib/main.dart` file.<br>
 
 to run the app, Make sure your laptop/computer is connected with an android/ios device or the emulator.
 To check whether you are connected or not, Run  `flutter doctor` command in the project directory.<br>
